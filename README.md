@@ -1,4 +1,4 @@
-# Learning Data Science Tutorial Repository
+# Learning Data Science
 
 ## Overview
 
